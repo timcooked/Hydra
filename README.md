@@ -14,7 +14,7 @@ Follow these steps to run the project locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Dilpreet-1881/Hydra.git
+https://github.com/timcooked/Hydra.git
 cd rainwater-harvesting
 ```
 
